@@ -110,8 +110,8 @@ body {
 @media screen and (min-width: 768px) {
     .card {
         display: flex;
-        width: 565px;
-        height: 400px;
+        width: 600px;
+        height: 450px;
     }
     .card__image--desktop {
         display: inline;
